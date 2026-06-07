@@ -1,0 +1,7 @@
+{
+  "common": { "appName": "MaCaoFun", "home": "首頁", "events": "活動日曆", "about": "關於我們", "contact": "聯絡我們", "learnMore": "了解更多", "backToEvents": "返回活動列表" },
+  "nav": { "switchLang": "切換語言" },
+  "home": { "title": "發現澳門 最精彩的體驗", "subtitle": "演唱會、展覽、節慶活動一站搜尋，開售倒計時即時掌握", "cta": "瀏覽活動", "comingSoon": "即將開售", "ticketsOn": "開售倒計時" },
+  "events": { "title": "活動日曆", "subtitle": "探索澳門各地精彩活動", "placeholder": "活動列表即將上線，敬請期待。", "detail": { "title": "活動詳情", "placeholder": "活動詳情頁面建設中。", "date": "日期", "location": "地點", "description": "活動描述" } },
+  "about": { "title": "關於我們", "subtitle": "了解 MaCaoFun 的故事", "placeholder": "關於我們的內容即將上線。", "mission": "我們的使命", "missionText": "專為來澳旅客而生，第一時間掌握澳門最精彩的演出與活動。", "feature1Title": "精選活動", "feature1Desc": "嚴選澳門頂級演唱會、展覽與節慶，讓你不錯過每一場值得期待的體驗。", "feature2Title": "開售提醒", "feature2Desc": "即時倒計時掌握開售時間，第一時間搶購心儀活動的門票。", "feature3Title": "旅客優先", "feature3Desc": "專為來澳旅客設計，輕鬆規劃行程，讓每次澳門之旅都精彩難忘。" }
+}
