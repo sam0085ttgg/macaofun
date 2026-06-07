@@ -1,0 +1,32 @@
+{
+  "common": {
+    "appName": "MaCaoFun",
+    "home": "Home",
+    "events": "Events",
+    "about": "About",
+    "contact": "Contact",
+    "learnMore": "Learn More",
+    "backToEvents": "Back to Events"
+  },
+  "nav": { "switchLang": "Switch Language" },
+  "home": {
+    "title": "Discover Macao's Most Exciting Experiences",
+    "subtitle": "Concerts, exhibitions, festivals — all in one place. Live countdowns to ticket sales.",
+    "cta": "Browse Events",
+    "comingSoon": "Coming Soon",
+    "ticketsOn": "Tickets On Sale In"
+  },
+  "events": {
+    "title": "Events Calendar",
+    "subtitle": "Explore exciting events across Macao",
+    "placeholder": "Event listings coming soon. Stay tuned!",
+    "detail": { "title": "Event Details", "placeholder": "Event detail page under construction.", "date": "Date", "location": "Location", "description": "Description" }
+  },
+  "about": {
+    "title": "About Us", "subtitle": "The story behind MaCaoFun", "placeholder": "About us content coming soon.",
+    "mission": "Our Mission", "missionText": "Built for visitors to Macao — so you never miss a show, exhibition, or festival worth experiencing.",
+    "feature1Title": "Curated Events", "feature1Desc": "Hand-picked concerts, exhibitions, and festivals — only the best Macao has to offer.",
+    "feature2Title": "Sale Alerts", "feature2Desc": "Real-time countdowns so you know exactly when tickets go on sale and can grab them first.",
+    "feature3Title": "Visitor First", "feature3Desc": "Designed for travellers to Macao. Plan your trip around the events that matter most to you."
+  }
+}
