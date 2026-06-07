@@ -1,0 +1,7 @@
+{
+  "common": { "appName": "MaCaoFun", "home": "首页", "events": "活动日历", "about": "关于我们", "contact": "联系我们", "learnMore": "了解更多", "backToEvents": "返回活动列表" },
+  "nav": { "switchLang": "切换语言" },
+  "home": { "title": "发现澳门 最精彩的体验", "subtitle": "演唱会、展览、节庆活动一站搜寻，开售倒计时即时掌握", "cta": "浏览活动", "comingSoon": "即将开售", "ticketsOn": "开售倒计时" },
+  "events": { "title": "活动日历", "subtitle": "探索澳门各地精彩活动", "placeholder": "活动列表即将上线，敬请期待。", "detail": { "title": "活动详情", "placeholder": "活动详情页面建设中。", "date": "日期", "location": "地点", "description": "活动描述" } },
+  "about": { "title": "关于我们", "subtitle": "了解 MaCaoFun 的故事", "placeholder": "关于我们的内容即将上线。", "mission": "我们的使命", "missionText": "专为来澳旅客而生，第一时间掌握澳门最精彩的演出与活动。", "feature1Title": "精选活动", "feature1Desc": "严选澳门顶级演唱会、展览与节庆，让你不错过每一场值得期待的体验。", "feature2Title": "开售提醒", "feature2Desc": "即时倒计时掌握开售时间，第一时间抢购心仪活动的门票。", "feature3Title": "旅客优先", "feature3Desc": "专为来澳旅客设计，轻松规划行程，让每次澳门之旅都精彩难忘。" }
+}
