@@ -1,2 +1,3 @@
 import { useTranslations } from 'next-intl'
-export default function AboutPage() { return <div>test</div> }
+const X = '🎯 test'
+export default function T() { return <div>{X}</div> }
